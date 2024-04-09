@@ -1,3 +1,6 @@
 [submodule "nvpro_core"]
 	path = nvpro_core
-	url = https://github.com/nvpro-samples/nvpro_core
+	url = https://github.com/Makalou/nvpro_core
+[submodule "vk_raytracing_tutorial_KHR"]
+	path = vk_raytracing_tutorial_KHR
+	url = https://github.com/Makalou/vk_raytracing_tutorial_KHR
